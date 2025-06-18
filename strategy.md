@@ -1,8 +1,10 @@
+.
+
 🛠️ Strategic Rebuilding Roadmap
 A 3-phase execution plan for rebuilding Hiroshima — physically, emotionally, and symbolically.
 
 🔥 Phase 1: Emergency Response & Damage Assessment (0–6 Months)
-In the immediate aftermath of the bombing, the focus must shift to saving lives, containing hazards, and beginning the foundation for reconstruction.
+In the immediate aftermath of the bombing, the focus must shift to saving lives, containing hazards, and laying the groundwork for recovery.
 
 🔹 Key Objectives:
 Preserve what life and resources remain
@@ -48,12 +50,12 @@ City Replanning by Japanese Experts
 
 Japanese architects and urban designers begin reimagining Hiroshima’s layout
 
-This planning phase is treated as a chance to correct pre-war flaws and design a modern city
+Treat planning as a chance to correct pre-war flaws and design a modern city
 
-New blueprints to include safety zones, wider streets, and decentralized hospitals
+Include safety zones, wider streets, and decentralized hospitals in new blueprints
 
 🏗️ Phase 2: Stabilization & Civic Recovery (6–24 Months)
-Once people are safe and immediate threats are neutralized, Hiroshima must start functioning again — as a living, breathing city.
+Once people are safe and immediate threats are neutralized, Hiroshima must begin functioning again — as a living, breathing city.
 
 🔹 Key Objectives:
 Restore basic institutions of daily life
@@ -67,23 +69,23 @@ Housing for the Displaced
 
 Launch a mass housing initiative to rebuild homes block-by-block
 
-Temporary shelters phased out as permanent, safer structures rise
+Phase out temporary shelters with permanent, safer structures
 
-Housing prioritization for elderly, families, and survivors with disabilities
+Prioritize housing for elderly, families, and survivors with disabilities
 
 Rebuilding Schools, Hospitals & Amenities
 
-Schools reestablished with trauma counseling and free education
+Reestablish schools with trauma counseling and free education
 
-Hospitals rebuilt with radiation-specialized units and modern tools
+Rebuild hospitals with radiation-specialized units and modern tools
 
 Open community kitchens, public baths, and spiritual centers to heal body and mind
 
 Help Centers Operate 24/7
 
-Physical “Support Booths” across Hiroshima to:
+Set up physical “Support Booths” across Hiroshima to:
 
-Help citizens access lost IDs, food tokens, housing claims
+Help citizens access lost IDs, food tokens, and housing claims
 
 Reunite lost family members
 
@@ -101,20 +103,20 @@ Children-Oriented Government Protection
 
 The state takes complete guardianship of orphaned children
 
-Long-term shelter, food, healthcare, and education till adulthood
+Provide long-term shelter, food, healthcare, and education
 
-Child protection officers and host family programs
+Deploy child protection officers and host family programs
 
 Citizen-Led Rebuilding Workforce
 
-All rebuilding work assigned to Japanese citizens — architects, masons, laborers
+Assign rebuilding work to Japanese citizens — architects, masons, laborers
 
-Boosts morale and provides income in an economy devastated by war
+Boost morale and provide income in a war-devastated economy
 
-Encourages ownership of the recovery journey
+Encourage collective ownership of the recovery journey
 
 🕊️ Phase 3: Identity, Legacy & Global Repositioning (2–10 Years)
-This final phase is not about concrete — it’s about meaning. Hiroshima must emerge not just as a rebuilt city, but a message to the world.
+This final phase is not about concrete — it’s about meaning. Hiroshima must emerge as a symbol, not of ruin, but of resilience and peace.
 
 🔹 Key Objectives:
 Turn Hiroshima into a beacon of peace and resilience
@@ -126,39 +128,39 @@ Redefine the city’s identity for future generations
 🔧 Strategic Interventions:
 Peace Memorials & Museums
 
-Hiroshima Peace Park built at Ground Zero
+Build Hiroshima Peace Park at Ground Zero
 
-Atomic Bomb Dome preserved as a UNESCO heritage site
+Preserve the Atomic Bomb Dome as a UNESCO heritage site
 
-Museums to hold stories, artifacts, and personal survivor accounts
+Establish museums with survivor accounts, artifacts, and educational content
 
-Designed to educate, not traumatize — especially for school visitors
+Design exhibits to educate, not traumatize — especially for students
 
 Annual Global Reflection Events
 
-August 6 declared Hiroshima Peace Day, with a global memorial each year
+Declare August 6 as Hiroshima Peace Day, marked globally
 
-Invite world leaders, diplomats, and peace activists
+Invite world leaders, diplomats, peace activists annually
 
-Student competitions, speeches, and exhibitions for peace innovation
+Host student competitions, innovation showcases, and peace exhibitions
 
 Global Positioning as a Resilience Capital
 
-Hiroshima rebranded in tourism, diplomacy, and culture as:
+Rebrand Hiroshima in tourism, diplomacy, and cultural storytelling as:
 
-"The City That Rose From Ashes"
+“The City That Rose From Ashes”
 
-Partnerships with international universities and NGOs
+Partner with international universities and NGOs
 
-Sister-city agreements with other conflict-impacted places to share healing processes
+Establish sister-city agreements with other post-conflict regions
 
 University & Research Investments
 
-Create an International Institute for Peace & Nuclear Disarmament
+Launch an International Institute for Peace & Nuclear Disarmament
 
-Offer academic programs in diplomacy, global policy, and peace innovation
+Offer programs in diplomacy, policy, and peace innovation
 
-Encourage survivors to become speakers and authors
+Encourage survivors to become authors, lecturers, and mentors
 
-Hiroshima will not be remembered only for how it died. It will be remembered for how it rose.
+“Hiroshima will not be remembered only for how it died. It will be remembered for how it rose.”
 
